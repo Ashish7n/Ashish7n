@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:1a1a2e&height=160&section=header&text=&fontSize=0" width="100%"/>
 
-<img src="Assets/output.gif" width="100%" alt="header animation"/>
+<img src="assets/github.gif" width="100%" alt="header animation"/>
 
 <br/>
 
