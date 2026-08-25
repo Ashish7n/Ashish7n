@@ -141,22 +141,30 @@ Always shipping something new 🚀
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ashish7n&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish7n&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashish7n&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Ashish7n&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ashish's GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish7n&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Ashish7n&theme=tokyonight&no-frame=true&row=1&column=7" />
+<img src="https://streak-stats.demolab.com/?user=Ashish7n&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ashish7n&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 
 </div>
 
 <br/>
 
+![divider](https://capsule-render.vercel.app/api?type=rect&color=8A2BE2&height=2&section=header)
+
+<br/>
+
 <div align="center">
+
+<img src="assets/night-workflow.webp" width="100%" alt="Night Workflow"/>
+
+<br/><br/>
 
 ### 💬 Let's Connect
 
