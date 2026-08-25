@@ -141,16 +141,20 @@ Always shipping something new 🚀
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Ashish7n&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ashish's GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish7n&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img height="180" src="https://github-readme-stats-anuraghazra.vercel.app/api?username=Ashish7n&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ashish's GitHub Stats" />
+<img height="180" src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=Ashish7n&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=Ashish7n&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+<img src="https://streak-stats.vercel.app/?user=Ashish7n&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Ashish7n&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+<img src="https://ghchart.rshah.org/8A2BE2/Ashish7n" alt="Ashish's Contribution Chart" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy-zeta.vercel.app/?username=Ashish7n&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 
 </div>
 
